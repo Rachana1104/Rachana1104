@@ -1,10 +1,10 @@
 #            Hey, I'm Rachana Yeldi 👋
 
-***
 
-- 🔭 I’m currently working on **Web Development
-- 🌱 I’m currently learning **Blockchain
-- 👯 I’m looking to collaborate on **Frontend Web Development with React Js
+
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Blockchain**
+- 👯 I’m looking to collaborate on **Frontend Web Development with React Js**
 - 📫 How to reach me: 
     * Gmail: [y.rachana1104@gmail.com](y.rachana1104@gmail.com)
     * LinkedIn: [https://www.linkedin.com/in/rachana-yeldi-430a981b2/](https://www.linkedin.com/in/rachana-yeldi-430a981b2/)
