@@ -1,4 +1,4 @@
-#            Hey, I'm Rachana Yeldi 👋
+# Hey, I'm Rachana Yeldi 👋
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Blockchain**
@@ -77,4 +77,4 @@
 
 ## Contribution Graph:
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=rogue)](https://github.com/Rachana1104)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=react-dark)](https://github.com/Rachana1104)
