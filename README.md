@@ -64,16 +64,16 @@
 
 ## 📈My Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachana1104&theme=dark)](https://github.com/Rachana1104)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachana1104&theme=radical)](https://github.com/Rachana1104)
 
 [![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachana1104&show_icons=true&theme=radical)](https://github.com/Rachana1104)
 
 ## Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana1104&layout=compact&theme=dark)](https://github.com/Rachana1104)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana1104&layout=compact&theme=radical)](https://github.com/Rachana1104)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rachana1104&color=green&style=for-the-badge)](https://github.com/Rachana1104)
 
 ## Contribution Graph:
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=minimal)](https://github.com/Rachana1104)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=radical)](https://github.com/Rachana1104)
