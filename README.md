@@ -11,3 +11,8 @@
 - 🎓 Second Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering
 - ⚡ Fun fact: I can talk for hours on philosophy 😉
 
+<br/>
+
+### My Github Stats:
+
+[![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachana1104)](https://github.com/Rachana1104/github-readme-stats)
