@@ -76,4 +76,4 @@
 
 ## Contribution Graph:
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=radical)](https://github.com/Rachana1104)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=react-dark)](https://github.com/Rachana1104)
