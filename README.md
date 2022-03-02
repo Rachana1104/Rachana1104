@@ -12,7 +12,9 @@
 - ⚡ Fun fact: I can talk for hours on philosophy 😉
 
 <br/>
-
+<hr/>
 ### My Github Stats:
 
 [![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachana1104)](https://github.com/Rachana1104/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana1104&layout=compact)](https://github.com/Rachana1104/github-readme-stats)
