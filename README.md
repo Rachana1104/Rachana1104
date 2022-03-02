@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I can talk for hours on philosophy 😉
 
 <br/>
-<hr/>
+
 ### My Github Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachana1104&theme=dark)](https://git.io/streak-stats)
