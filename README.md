@@ -32,6 +32,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
+<br/>
 
 ### Editors:
 [<img align="left" alt="medium" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
@@ -76,4 +77,4 @@
 
 ## Contribution Graph:
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=react-dark)](https://github.com/Rachana1104)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rachana1104&theme=rogue)](https://github.com/Rachana1104)
