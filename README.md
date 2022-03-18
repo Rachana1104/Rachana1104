@@ -1,4 +1,4 @@
-# Hey, I'm Rachana Yeldi 👋
+ <h1 align="center">  Hey, I'm Rachana Yeldi 👋</h1>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Blockchain**
