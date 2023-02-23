@@ -6,8 +6,9 @@
 - 📫 How to reach me: 
     * Gmail: [y.rachana1104@gmail.com](y.rachana1104@gmail.com)
     * LinkedIn: [https://www.linkedin.com/in/rachana-yeldi-430a981b2/](https://www.linkedin.com/in/rachana-yeldi-430a981b2/)
-- 🎓 Second Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering
+- 🎓 Third Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering
 - ⚡ Fun fact: I can talk for hours on philosophy 😉
+- 🏆 3x Hackathon Winner
 
 <br/>
 
