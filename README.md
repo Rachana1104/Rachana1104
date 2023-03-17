@@ -7,8 +7,9 @@
     * Gmail: [y.rachana1104@gmail.com](y.rachana1104@gmail.com)
     * LinkedIn: [https://www.linkedin.com/in/rachana-yeldi-430a981b2/](https://www.linkedin.com/in/rachana-yeldi-430a981b2/)
 - 🎓 Third Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering
+- ⭐ Have a look at my [Portfolio](https://rachana-yeldi.netlify.app/) 
 - ⚡ Fun fact: I can talk for hours on philosophy 😉
-- 🏆 3x Hackathon Winner
+- 🏆 4x Hackathon Winner
 
 <br/>
 
